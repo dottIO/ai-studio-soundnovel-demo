@@ -1,5 +1,3 @@
-[_tb_system_call storage=./system/_scene1.ks]
-
 [cm  ]
 [bg  storage="room.jpg"  time="1000"  ]
 [playbgm  volume="50"  time="1000"  loop="true"  storage="hono.mp3"  ]
